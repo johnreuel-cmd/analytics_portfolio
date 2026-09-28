@@ -12,6 +12,8 @@ This repository contains my Business Intelligence projects using SQL, Power BI, 
 
 Workforce Economics: Hiring vs. Retention Investment Analysis
 
+file:///C:/Users/reuel/Downloads/northstar-logo.svg
+
 Background and Overview
 
 Northstar SaaS Solutions is a Philippine-based B2B Software-as-a-Service (SaaS) company that provides cloud-based workflow, analytics, and business operations platforms to growing companies across Asia-Pacific.
